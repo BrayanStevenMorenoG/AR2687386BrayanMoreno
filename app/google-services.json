@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "611314727238",
+    "project_id": "ar2687386brayanmoreno",
+    "storage_bucket": "ar2687386brayanmoreno.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611314727238:android:6e0a8552ffeaf2ee3acd47",
+        "android_client_info": {
+          "package_name": "co.edu.sena.ar2687386brayanmoreno"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "611314727238-7bcpfdsppubto18ns4f7a9ioe2872b41.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV1d9cnaMeVkJNGLH6kX3SRM0wnZumCMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "611314727238-7bcpfdsppubto18ns4f7a9ioe2872b41.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
